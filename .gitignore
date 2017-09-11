@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+.settings
+.groovy
+.slcache
+.classpath
+.project
+acerozin-manager-grailsPlugins.iml
+inventory-manager.iml
+inventory-manager-grailsPlugins.iml
+target
+target-eclipse
